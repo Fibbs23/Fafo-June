@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260612-205022-fi7g",
+      "title": "Hârâshô",
+      "commanders": [
+        "Hârâshô"
+      ],
+      "dateStart": "2026-06-13T02:50:22.000Z",
+      "dateEnd": "2026-06-13T03:44:11.000Z",
+      "dateLabel": "6/12/2026, 8:50:22 PM - 6/12/2026, 9:44:11 PM",
+      "url": "https://fibbs23.github.io/Fafo-June/?report=20260612-205022-fi7g",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 27,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 47,
+        "avgEnemySize": 58
+      }
+    },
+    {
       "id": "20260610-184315-2df4",
       "title": "Fíbbs",
       "commanders": [
