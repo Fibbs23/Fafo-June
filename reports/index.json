@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260628-185807-nkr5",
+      "title": "Lightspeed Jack",
+      "commanders": [
+        "Lightspeed Jack"
+      ],
+      "dateStart": "2026-06-29T00:58:07.000Z",
+      "dateEnd": "2026-06-29T02:57:31.000Z",
+      "dateLabel": "6/28/2026, 6:58:07 PM - 6/28/2026, 8:57:31 PM",
+      "url": "https://Fibbs23.github.io/Fafo-June/?report=20260628-185807-nkr5",
+      "summary": {
+        "borderlandsPct": 0.5416666666666666,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 9,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 4,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260624-183807-27vf",
       "title": "Fíbbs",
       "commanders": [
